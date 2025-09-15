@@ -6,3 +6,4 @@ elif c < d:
     print(f"{d} is greater than {c}.")
 else:
     print(f"{c} and {d} are equal.")
+ 
