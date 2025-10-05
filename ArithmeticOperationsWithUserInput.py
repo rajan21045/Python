@@ -6,7 +6,7 @@ diff = second - first
 mul = first * second
 div = second / first
 mod = second % first
-
+ 
 print(f"Sum is {sum}")
 print(f"Multification is {mul}")
 print(f"Difference is {diff}")
