@@ -1,0 +1,5 @@
+print("Escape Sequence")
+print("Hello \"World\"")
+print("Hello \t World")
+print("Hello \nWorld")
+print("She said, \"I am beutiful\"")
