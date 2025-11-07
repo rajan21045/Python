@@ -1,0 +1,10 @@
+# touple
+list = (1, 2, 3, 4, 5, 'a', "String", 3.13, 5+9)
+print(type(list))
+print(list)
+list.append(6)
+list.append("Rajan")
+print(list)
+list.pop()
+print(list)
+print(list[2])
