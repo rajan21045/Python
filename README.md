@@ -12,14 +12,18 @@ This folder contains a collection of Python programs, exercises, and projects ta
 3. Run a Python file using:
 
 ```bash
-python filename.py
-./output 
+python filename.py 
 ```
 or 
 ```bash
-python3 filename.py
-./output 
+python3 filename.py 
 ```
 
+## 📬 Contact
 
+For feedback, collaboration, or questions, feel free to reach out:
+```bash
+📧 Email: raajan.works@gmail.com  
+🌐 GitHub: @rajan21045
+```
 
