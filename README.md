@@ -1,4 +1,4 @@
-## PYTHON
+## 🐍PYTHON
 
 Welcome to the **Python** repository!
 This folder contains a curated collection of Python programs, exercises, assignments, and mini-projects taught by my teacher — designed to help beginners and intermediate learners strengthen their Python fundamentals and problem-solving skills.
