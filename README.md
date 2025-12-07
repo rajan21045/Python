@@ -19,9 +19,8 @@ or
 python3 filename.py 
 ```
 ## 🤝 Contributing
-
-- Want to improve this repository?
-- You can contribute by:
+Want to improve this repository?
+You can contribute by:
 - Fixing or optimizing code
 - Adding explanations/comments
 - Submitting new programs
