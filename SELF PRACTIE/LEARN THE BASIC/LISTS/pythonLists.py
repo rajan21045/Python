@@ -9,7 +9,7 @@ print("\n")
 list2 = [1, 5, 7, 9, 3]
 print(list2)
 print("\n")
-
+ 
 list3 = [True, False, False]
 print(list3)
 print("\n")
